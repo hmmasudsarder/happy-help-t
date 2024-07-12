@@ -1,0 +1,20 @@
+.player-card{
+    padding: 10px;
+    width: 250px;
+    height: auto;
+    display: flex-col;
+    text-align: center;
+    margin: auto;
+}
+.player-image{
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    margin: auto;
+    border-radius: 21px;
+}
+
+.player-name{
+    font-size: 22px;
+    text-align: center;
+}
